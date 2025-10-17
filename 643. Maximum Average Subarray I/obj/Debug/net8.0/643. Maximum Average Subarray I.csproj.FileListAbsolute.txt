@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/bin/Debug/net8.0/643. Maximum Average Subarray I
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/bin/Debug/net8.0/643. Maximum Average Subarray I.deps.json
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/bin/Debug/net8.0/643. Maximum Average Subarray I.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/bin/Debug/net8.0/643. Maximum Average Subarray I.dll
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/bin/Debug/net8.0/643. Maximum Average Subarray I.pdb
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/obj/Debug/net8.0/643. Maximum Average Subarray I.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/obj/Debug/net8.0/643. Maximum Average Subarray I.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/obj/Debug/net8.0/643. Maximum Average Subarray I.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/obj/Debug/net8.0/643. Maximum Average Subarray I.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/obj/Debug/net8.0/643. Maximum Average Subarray I.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/obj/Debug/net8.0/643. Maximum Average Subarray I.dll
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/obj/Debug/net8.0/refint/643. Maximum Average Subarray I.dll
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/obj/Debug/net8.0/643. Maximum Average Subarray I.pdb
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/obj/Debug/net8.0/643. Maximum Average Subarray I.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/643. Maximum Average Subarray I/obj/Debug/net8.0/ref/643. Maximum Average Subarray I.dll

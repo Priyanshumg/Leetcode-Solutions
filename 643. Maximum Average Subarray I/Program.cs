@@ -4,10 +4,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        // UserName("Priyanshu");
         int[] nums = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
         int windowSize = 3;
+        FindMaxAverage3(nums, windowSize);
         FindMaxAverage2(nums, windowSize);
+        }
+    public static void UserName(string UserName)
+    {
+        Console.WriteLine($"Hello {UserName}");
     }
     
     /// <summary>
@@ -65,5 +70,27 @@ class Program
             maxSum = Math.Max(maxSum, sum);
         }
         Console.WriteLine($"Max Average: {maxSum / windowSize}");
+    }
+
+    public static void FindMaxAverage3(int[] nums, int windowSize)
+    {
+        int sum = 0;
+        for(int i = 0; i < windowSize; i++) sum += nums[i];
+        double maxSum = sum;
+        int startIndex = 0;
+        int endIndex = windowSize;
+
+        while (endIndex < nums.Length)
+        {
+            sum -= nums[startIndex];
+            startIndex++;
+            
+            sum += nums[endIndex];
+            endIndex++;
+            
+            maxSum = Math.Max(maxSum, sum);
+        }
+
+        Console.WriteLine("Max Average: " + maxSum/windowSize);
     }
 }

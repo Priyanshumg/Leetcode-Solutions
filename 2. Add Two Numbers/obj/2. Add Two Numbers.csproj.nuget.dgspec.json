@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/643. Maximum Average Subarray I/643. Maximum Average Subarray I.csproj": {}
+    "/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/2. Add Two Numbers/2. Add Two Numbers.csproj": {}
   },
   "projects": {
-    "/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/643. Maximum Average Subarray I/643. Maximum Average Subarray I.csproj": {
+    "/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/2. Add Two Numbers/2. Add Two Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/643. Maximum Average Subarray I/643. Maximum Average Subarray I.csproj",
-        "projectName": "643. Maximum Average Subarray I",
-        "projectPath": "/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/643. Maximum Average Subarray I/643. Maximum Average Subarray I.csproj",
+        "projectUniqueName": "/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/2. Add Two Numbers/2. Add Two Numbers.csproj",
+        "projectName": "2. Add Two Numbers",
+        "projectPath": "/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/2. Add Two Numbers/2. Add Two Numbers.csproj",
         "packagesPath": "/Users/Priyanshu/.nuget/packages/",
-        "outputPath": "/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/643. Maximum Average Subarray I/obj/",
+        "outputPath": "/Users/Priyanshu/Desktop/Codes/LeetCode Solutions/2. Add Two Numbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Priyanshu/.nuget/NuGet/NuGet.Config"

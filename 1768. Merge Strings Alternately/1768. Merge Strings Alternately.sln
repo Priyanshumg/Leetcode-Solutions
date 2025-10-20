@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately.csproj", "{C8CA19FC-651D-4921-9C11-C3D79230776D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8CA19FC-651D-4921-9C11-C3D79230776D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CA19FC-651D-4921-9C11-C3D79230776D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CA19FC-651D-4921-9C11-C3D79230776D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CA19FC-651D-4921-9C11-C3D79230776D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

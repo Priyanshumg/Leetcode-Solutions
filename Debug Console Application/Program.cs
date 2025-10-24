@@ -1,4 +1,4 @@
-﻿namespace _4._Median_of_Two_Sorted_Arrays;
+﻿namespace Debug_Console_Application;
 
 class Program
 {
@@ -36,15 +36,11 @@ class Program
 
         return 0;
     }
+
     static void Main(string[] args)
     {
         int[] num1 = new[] { 1, 2 };
         int[] num2 = new[] { 3, 4 };
         Console.WriteLine(findMedianofTwoSortedArrays(num1, num2));
-
-        num1 = new[] { 1, 3 };
-        num2 = new[] { 2 };
-        Console.WriteLine(findMedianofTwoSortedArrays(num1, num2));
-        
     }
-}
+} 

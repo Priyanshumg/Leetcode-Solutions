@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/bin/Debug/net8.0/Debug Console Application
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/bin/Debug/net8.0/Debug Console Application.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/bin/Debug/net8.0/Debug Console Application.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/bin/Debug/net8.0/Debug Console Application.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/bin/Debug/net8.0/Debug Console Application.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/obj/Debug/net8.0/Debug Console Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/obj/Debug/net8.0/Debug Console Application.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/obj/Debug/net8.0/Debug Console Application.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/obj/Debug/net8.0/Debug Console Application.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/obj/Debug/net8.0/Debug Console Application.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/obj/Debug/net8.0/Debug Console Application.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/obj/Debug/net8.0/refint/Debug Console Application.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/obj/Debug/net8.0/Debug Console Application.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/obj/Debug/net8.0/Debug Console Application.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/Debug Console Application/obj/Debug/net8.0/ref/Debug Console Application.dll

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array.csproj", "{166D7972-9A3B-4C72-A1FA-E4CD20A8D581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166D7972-9A3B-4C72-A1FA-E4CD20A8D581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166D7972-9A3B-4C72-A1FA-E4CD20A8D581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166D7972-9A3B-4C72-A1FA-E4CD20A8D581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166D7972-9A3B-4C72-A1FA-E4CD20A8D581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

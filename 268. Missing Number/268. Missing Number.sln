@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268. Missing Number", "268. Missing Number.csproj", "{B08F8159-B643-4586-93C3-C93A6C082351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08F8159-B643-4586-93C3-C93A6C082351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08F8159-B643-4586-93C3-C93A6C082351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08F8159-B643-4586-93C3-C93A6C082351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08F8159-B643-4586-93C3-C93A6C082351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

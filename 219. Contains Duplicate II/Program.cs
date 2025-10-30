@@ -30,4 +30,5 @@ class Program
         Console.WriteLine(ContainsNearbyDuplicate(new[] { 1, 0, 1, 1 }, 1));
         Console.WriteLine(ContainsNearbyDuplicate(new[] { 1, 2, 3, 1, 2, 3 }, 2));
     }
+
 }

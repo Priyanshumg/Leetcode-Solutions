@@ -1,4 +1,4 @@
-﻿namespace Debug_Console_Application;
+﻿namespace _5._Longest_Palindromic_Substring___Two_Pointer;
 
 class Program
 {
@@ -61,4 +61,4 @@ class Program
         }
         return right - left - 1;
     }
-} 
+}

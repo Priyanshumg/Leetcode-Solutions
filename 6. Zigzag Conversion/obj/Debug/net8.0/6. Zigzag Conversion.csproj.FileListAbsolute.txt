@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/bin/Debug/net8.0/6. Zigzag Conversion
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/bin/Debug/net8.0/6. Zigzag Conversion.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/bin/Debug/net8.0/6. Zigzag Conversion.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/bin/Debug/net8.0/6. Zigzag Conversion.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/bin/Debug/net8.0/6. Zigzag Conversion.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/obj/Debug/net8.0/6. Zigzag Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/obj/Debug/net8.0/6. Zigzag Conversion.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/obj/Debug/net8.0/6. Zigzag Conversion.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/obj/Debug/net8.0/6. Zigzag Conversion.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/obj/Debug/net8.0/6. Zigzag Conversion.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/obj/Debug/net8.0/6. Zigzag Conversion.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/obj/Debug/net8.0/refint/6. Zigzag Conversion.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/obj/Debug/net8.0/6. Zigzag Conversion.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/obj/Debug/net8.0/6. Zigzag Conversion.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/6. Zigzag Conversion/obj/Debug/net8.0/ref/6. Zigzag Conversion.dll

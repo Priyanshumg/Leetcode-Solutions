@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/bin/Debug/net8.0/8. String to Integer - ATOI
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/bin/Debug/net8.0/8. String to Integer - ATOI.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/bin/Debug/net8.0/8. String to Integer - ATOI.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/bin/Debug/net8.0/8. String to Integer - ATOI.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/bin/Debug/net8.0/8. String to Integer - ATOI.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/obj/Debug/net8.0/8. String to Integer - ATOI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/obj/Debug/net8.0/8. String to Integer - ATOI.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/obj/Debug/net8.0/8. String to Integer - ATOI.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/obj/Debug/net8.0/8. String to Integer - ATOI.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/obj/Debug/net8.0/8. String to Integer - ATOI.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/obj/Debug/net8.0/8. String to Integer - ATOI.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/obj/Debug/net8.0/refint/8. String to Integer - ATOI.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/obj/Debug/net8.0/8. String to Integer - ATOI.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/obj/Debug/net8.0/8. String to Integer - ATOI.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/8. String to Integer - ATOI/obj/Debug/net8.0/ref/8. String to Integer - ATOI.dll

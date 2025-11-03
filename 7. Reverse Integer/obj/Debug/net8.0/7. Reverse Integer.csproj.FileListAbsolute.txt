@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/bin/Debug/net8.0/7. Reverse Integer
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/bin/Debug/net8.0/7. Reverse Integer.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/bin/Debug/net8.0/7. Reverse Integer.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/bin/Debug/net8.0/7. Reverse Integer.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/bin/Debug/net8.0/7. Reverse Integer.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/obj/Debug/net8.0/7. Reverse Integer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/obj/Debug/net8.0/7. Reverse Integer.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/obj/Debug/net8.0/7. Reverse Integer.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/obj/Debug/net8.0/7. Reverse Integer.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/obj/Debug/net8.0/7. Reverse Integer.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/obj/Debug/net8.0/7. Reverse Integer.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/obj/Debug/net8.0/refint/7. Reverse Integer.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/obj/Debug/net8.0/7. Reverse Integer.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/obj/Debug/net8.0/7. Reverse Integer.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/7. Reverse Integer/obj/Debug/net8.0/ref/7. Reverse Integer.dll

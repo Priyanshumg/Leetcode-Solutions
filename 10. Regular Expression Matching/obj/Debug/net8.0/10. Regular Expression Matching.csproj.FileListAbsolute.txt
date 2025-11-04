@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/obj/Debug/net8.0/10. Regular Expression Matching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/obj/Debug/net8.0/10. Regular Expression Matching.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/obj/Debug/net8.0/10. Regular Expression Matching.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/obj/Debug/net8.0/10. Regular Expression Matching.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/obj/Debug/net8.0/10. Regular Expression Matching.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/bin/Debug/net8.0/10. Regular Expression Matching
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/bin/Debug/net8.0/10. Regular Expression Matching.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/bin/Debug/net8.0/10. Regular Expression Matching.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/bin/Debug/net8.0/10. Regular Expression Matching.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/bin/Debug/net8.0/10. Regular Expression Matching.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/obj/Debug/net8.0/10. Regular Expression Matching.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/obj/Debug/net8.0/refint/10. Regular Expression Matching.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/obj/Debug/net8.0/10. Regular Expression Matching.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/obj/Debug/net8.0/10. Regular Expression Matching.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/10. Regular Expression Matching/obj/Debug/net8.0/ref/10. Regular Expression Matching.dll

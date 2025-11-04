@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/obj/Debug/net8.0/refint/9. Palindrome Number.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/9. Palindrome Number/obj/Debug/net8.0/ref/9. Palindrome Number.dll

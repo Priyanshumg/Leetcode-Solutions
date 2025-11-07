@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/bin/Debug/net8.0/326. Power of Three
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/bin/Debug/net8.0/326. Power of Three.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/bin/Debug/net8.0/326. Power of Three.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/bin/Debug/net8.0/326. Power of Three.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/bin/Debug/net8.0/326. Power of Three.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/obj/Debug/net8.0/326. Power of Three.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/obj/Debug/net8.0/326. Power of Three.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/obj/Debug/net8.0/326. Power of Three.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/obj/Debug/net8.0/326. Power of Three.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/obj/Debug/net8.0/326. Power of Three.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/obj/Debug/net8.0/326. Power of Three.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/obj/Debug/net8.0/refint/326. Power of Three.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/obj/Debug/net8.0/326. Power of Three.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/obj/Debug/net8.0/326. Power of Three.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/326. Power of Three/obj/Debug/net8.0/ref/326. Power of Three.dll

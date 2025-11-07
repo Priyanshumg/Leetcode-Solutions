@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "326. Power of Three", "326. Power of Three.csproj", "{DE082315-BE0F-461B-B338-3E1F51FD3932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE082315-BE0F-461B-B338-3E1F51FD3932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE082315-BE0F-461B-B338-3E1F51FD3932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE082315-BE0F-461B-B338-3E1F51FD3932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE082315-BE0F-461B-B338-3E1F51FD3932}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

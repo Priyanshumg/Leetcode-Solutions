@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/bin/Debug/net8.0/19. Remove Nth Node From End of List
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/bin/Debug/net8.0/19. Remove Nth Node From End of List.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/bin/Debug/net8.0/19. Remove Nth Node From End of List.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/bin/Debug/net8.0/19. Remove Nth Node From End of List.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/bin/Debug/net8.0/19. Remove Nth Node From End of List.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/obj/Debug/net8.0/19. Remove Nth Node From End of List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/obj/Debug/net8.0/19. Remove Nth Node From End of List.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/obj/Debug/net8.0/19. Remove Nth Node From End of List.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/obj/Debug/net8.0/19. Remove Nth Node From End of List.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/obj/Debug/net8.0/19. Remove Nth Node From End of List.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/obj/Debug/net8.0/19. Remove Nth Node From End of List.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/obj/Debug/net8.0/refint/19. Remove Nth Node From End of List.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/obj/Debug/net8.0/19. Remove Nth Node From End of List.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/obj/Debug/net8.0/19. Remove Nth Node From End of List.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/19. Remove Nth Node From End of List/19. Remove Nth Node From End of List/obj/Debug/net8.0/ref/19. Remove Nth Node From End of List.dll

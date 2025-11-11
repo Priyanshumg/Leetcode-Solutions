@@ -7,11 +7,10 @@ class Program
         int left = 0, right = arr.Length - 1, max = 0;
         while (left < right)
         {
-            int height = arr[left] > arr[right] ? arr[right] : arr[left];
+            int height = Math.Min(arr[left], arr[right]);
             max = Math.Max(max, (right - left) * height);
             _ = arr[left] < arr[right] ? left++ : right--;
         }
-
         return max;
     }
     static void Main(string[] args)

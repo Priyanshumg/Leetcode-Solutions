@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Container With Most Water", "11. Container With Most Water\11. Container With Most Water.csproj", "{2BAA0F00-A1F7-4E18-906C-3E269572A057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BAA0F00-A1F7-4E18-906C-3E269572A057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAA0F00-A1F7-4E18-906C-3E269572A057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAA0F00-A1F7-4E18-906C-3E269572A057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAA0F00-A1F7-4E18-906C-3E269572A057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

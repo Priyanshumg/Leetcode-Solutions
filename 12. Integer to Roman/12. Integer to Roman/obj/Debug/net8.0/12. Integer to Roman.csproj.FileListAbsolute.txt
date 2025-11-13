@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/bin/Debug/net8.0/12. Integer to Roman
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/bin/Debug/net8.0/12. Integer to Roman.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/bin/Debug/net8.0/12. Integer to Roman.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/bin/Debug/net8.0/12. Integer to Roman.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/bin/Debug/net8.0/12. Integer to Roman.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/obj/Debug/net8.0/12. Integer to Roman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/obj/Debug/net8.0/12. Integer to Roman.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/obj/Debug/net8.0/12. Integer to Roman.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/obj/Debug/net8.0/12. Integer to Roman.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/obj/Debug/net8.0/12. Integer to Roman.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/obj/Debug/net8.0/12. Integer to Roman.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/obj/Debug/net8.0/refint/12. Integer to Roman.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/obj/Debug/net8.0/12. Integer to Roman.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/obj/Debug/net8.0/12. Integer to Roman.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/12. Integer to Roman/12. Integer to Roman/obj/Debug/net8.0/ref/12. Integer to Roman.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("21. Merge Two Sorted Lists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3686357b1b9dffdc5560cfca424b8b96a90c8a34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a5a72fd6d8c7fd868fc760821f5fe0a24ca971")]
 [assembly: System.Reflection.AssemblyProductAttribute("21. Merge Two Sorted Lists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("21. Merge Two Sorted Lists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

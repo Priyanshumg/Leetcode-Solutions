@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/bin/Debug/net8.0/1752. Check if Array Is Sorted and Rotated
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/bin/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/bin/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/bin/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/bin/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/obj/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/obj/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/obj/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/obj/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/obj/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/obj/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/obj/Debug/net8.0/refint/1752. Check if Array Is Sorted and Rotated.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/obj/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/obj/Debug/net8.0/1752. Check if Array Is Sorted and Rotated.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/1752. Check if Array Is Sorted and Rotated/obj/Debug/net8.0/ref/1752. Check if Array Is Sorted and Rotated.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("108. Convert Sorted Array to Binary Search Tree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e5ffa2fcb06454d318f0c2af4c13b442838334a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a5a72fd6d8c7fd868fc760821f5fe0a24ca971")]
 [assembly: System.Reflection.AssemblyProductAttribute("108. Convert Sorted Array to Binary Search Tree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("108. Convert Sorted Array to Binary Search Tree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2. Add Two Numbers  - Recursion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d221ed4246ff18bb4d35fa6d9a7599163bb60e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a5a72fd6d8c7fd868fc760821f5fe0a24ca971")]
 [assembly: System.Reflection.AssemblyProductAttribute("2. Add Two Numbers  - Recursion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2. Add Two Numbers  - Recursion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,28 +2,78 @@
 
 class Program
 {
+    record TestCase(string[] input, string expectedResult); 
     static void Main(string[] args)
     {
-        string[] testCases = { "babad", "cbbd", "a", "ac", "racecar", "abba", "abcdef" };
-        string[] expected = { 
-            "Expected: 'bab' or 'aba'",
-            "Expected: 'bb'",
-            "Expected: 'a'",
-            "Expected: 'a' or 'c'",
-            "Expected: 'racecar'",
-            "Expected: 'abba'",
-            "Expected: any single char"
-        };
-        
-        Console.WriteLine("Testing Longest Palindromic Substring:\n");
-        
-        for (int i = 0; i < testCases.Length; i++)
+
+        TestCase[] testcases = 
+        [
+            new (["flower", "flow", "flight"], "fl"),
+            new (["dogcar", "racecar", "car"], "")
+        ];
+
+        foreach (var test in testcases)
         {
-            string result = LongestPalindrome(testCases[i]);
-            Console.WriteLine($"Input: '{testCases[i]}'");
-            Console.WriteLine($"Output: '{result}'");
-            Console.WriteLine($"{expected[i]}\n");
+            PrintInput(test.input);
+            Console.WriteLine($"Output: {LongestCommonPrefix(test.input)}");
+            Console.WriteLine($"Expected Res: {test.expectedResult}");
+            Console.WriteLine(new string('=', 40));
+            Console.WriteLine();
         }
+    }
+
+    public static void PrintInput(string[] strs)
+    {
+        Console.Write("Test Input: [ ");
+        foreach (var element in strs)
+        {
+            if (element == strs[^1])
+            {
+                Console.WriteLine(element + " ]");
+                break;
+            }
+            Console.Write(element + ", ");
+        }
+    }
+
+    public static string LongestCommonPrefix(string[] strs)
+    {
+        strs = strs.OrderBy(s => s).ToArray();
+        string first = strs[0], last = strs[^1];
+        int index = 0;
+        while (index <= first.Length && index <= last.Length)
+        {
+            if (first[index] == last[index])
+                index++;
+
+            else
+                break;
+        }
+
+        return first.Substring(0, index);
+    }
+
+    
+    public static string LongestCommonPrefix2(string[] strs)
+    {
+        string cmp = strs[0];
+        foreach (string x in strs)
+        {
+            if(cmp.Length >= x.Length)
+                cmp = x;
+        }
+
+        for (int i = 0; i < strs.Length; i++)
+        {
+            while (!strs[i].StartsWith(cmp))
+            {
+                cmp = cmp.Substring(0, cmp.Length - 1);
+                if (cmp == "")
+                    return "";
+            }
+        }
+
+        return cmp;
     }
 
     public static string LongestPalindrome(string s)

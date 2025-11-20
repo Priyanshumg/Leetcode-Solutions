@@ -52,6 +52,7 @@ class Program
 
                 if (sum == 0)
                 {
+                    // Note int array is faster than the list, this can create impact in result
                     result.Add(new int[] { nums[i], nums[left], nums[right] });
 
                     // skip duplicates for left and right

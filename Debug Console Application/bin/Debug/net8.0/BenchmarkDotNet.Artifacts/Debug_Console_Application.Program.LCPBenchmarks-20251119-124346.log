@@ -1,0 +1,11 @@
+// Validating benchmarks:
+// Benchmark LCPBenchmarks.Approach_Sort: DefaultJob
+//    * Benchmarked method `Approach_Sort` is within a non-visible class, all declaring types must be public.
+
+// Benchmark LCPBenchmarks.Approach_Shrink: DefaultJob
+//    * Benchmarked method `Approach_Shrink` is within a non-visible class, all declaring types must be public.
+
+//    * Assembly Debug Console Application which defines benchmarks is non-optimized
+Benchmark was built without optimization enabled (most probably a DEBUG configuration). Please, build it in RELEASE.
+If you want to debug the benchmarks, please see https://benchmarkdotnet.org/articles/guides/troubleshooting.html#debugging-benchmarks.
+

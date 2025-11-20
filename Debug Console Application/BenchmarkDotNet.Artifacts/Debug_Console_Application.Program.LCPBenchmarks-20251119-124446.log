@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// Benchmark LCPBenchmarks.Approach_Sort: DefaultJob
+//    * Benchmarked method `Approach_Sort` is within a non-visible class, all declaring types must be public.
+
+// Benchmark LCPBenchmarks.Approach_Shrink: DefaultJob
+//    * Benchmarked method `Approach_Shrink` is within a non-visible class, all declaring types must be public.
+

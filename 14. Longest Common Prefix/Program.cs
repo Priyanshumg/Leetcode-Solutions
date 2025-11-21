@@ -15,7 +15,7 @@ class Program
         foreach (var test in testcases)
         {
             PrintInput(test.input);
-            Console.WriteLine($"Output: {LongestCommonPrefix(test.input)}");
+            Console.WriteLine($"Output: {LongestCommonPrefixV2(test.input)}");
             Console.WriteLine($"Expected Res: {test.expectedResult}");
             Console.WriteLine(new string('=', 40));
             Console.WriteLine();
@@ -49,5 +49,17 @@ class Program
                 break;
         }
         return first.Substring(0, index);
+    }
+    
+    static string LongestCommonPrefixV2(string[] strs)
+    {
+        if (strs.Length == 0)
+            return "";
+        string prefix = strs[0];
+        for (int i = 0; i < strs.Length; i++)
+            while (!strs[i].StartsWith(prefix))
+                prefix = prefix.Substring(0, prefix.Length - 1);
+
+        return prefix;
     }
 }

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letter Combinations of a Phone Number", "Letter Combinations of a Phone Number.csproj", "{1594DC98-B335-4100-9264-DC585469E600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1594DC98-B335-4100-9264-DC585469E600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1594DC98-B335-4100-9264-DC585469E600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1594DC98-B335-4100-9264-DC585469E600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1594DC98-B335-4100-9264-DC585469E600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

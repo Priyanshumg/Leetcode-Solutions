@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/obj/Debug/net8.0/22. Generate Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/obj/Debug/net8.0/22. Generate Parentheses.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/obj/Debug/net8.0/22. Generate Parentheses.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/obj/Debug/net8.0/22. Generate Parentheses.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/obj/Debug/net8.0/22. Generate Parentheses.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/bin/Debug/net8.0/22. Generate Parentheses
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/bin/Debug/net8.0/22. Generate Parentheses.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/bin/Debug/net8.0/22. Generate Parentheses.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/bin/Debug/net8.0/22. Generate Parentheses.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/bin/Debug/net8.0/22. Generate Parentheses.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/obj/Debug/net8.0/22. Generate Parentheses.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/obj/Debug/net8.0/refint/22. Generate Parentheses.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/obj/Debug/net8.0/22. Generate Parentheses.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/obj/Debug/net8.0/22. Generate Parentheses.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/22. Generate Parentheses/obj/Debug/net8.0/ref/22. Generate Parentheses.dll

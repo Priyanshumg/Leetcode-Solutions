@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/obj/Debug/net8.0/20. Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/obj/Debug/net8.0/20. Valid Parentheses.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/obj/Debug/net8.0/20. Valid Parentheses.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/obj/Debug/net8.0/20. Valid Parentheses.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/obj/Debug/net8.0/20. Valid Parentheses.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/bin/Debug/net8.0/20. Valid Parentheses
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/bin/Debug/net8.0/20. Valid Parentheses.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/bin/Debug/net8.0/20. Valid Parentheses.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/bin/Debug/net8.0/20. Valid Parentheses.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/bin/Debug/net8.0/20. Valid Parentheses.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/obj/Debug/net8.0/20. Valid Parentheses.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/obj/Debug/net8.0/refint/20. Valid Parentheses.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/obj/Debug/net8.0/20. Valid Parentheses.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/obj/Debug/net8.0/20. Valid Parentheses.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/20. Valid Parentheses/obj/Debug/net8.0/ref/20. Valid Parentheses.dll

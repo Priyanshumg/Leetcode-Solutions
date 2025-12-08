@@ -35,6 +35,20 @@ class Program
 
         return dummyNode.next;
     }
+    
+    public static ListNode SwapPairsRecursion(ListNode head) {
+        if (head == null || head.next == null)
+            return head;
+        
+        ListNode first = head;
+        ListNode second = head.next;
+
+        first.next = SwapPairs(second.next);
+
+        second.next = first;
+
+        return second;
+    }
 
     static void Main(string[] args)
     {
@@ -62,7 +76,7 @@ class Program
             var input = BuildList(test);
             PrintList(input);
 
-            var result = SwapPairs(input);
+            var result = SwapPairsRecursion(input);
 
             Console.Write("Output:   ");
             PrintList(result);

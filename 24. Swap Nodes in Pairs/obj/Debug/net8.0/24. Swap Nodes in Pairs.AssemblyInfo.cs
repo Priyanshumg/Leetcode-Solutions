@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("24. Swap Nodes in Pairs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a78ceaf8abdd6f6796bd2ca80f953b6870eedb0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c6b05aa243769aed720f7c83443c4700b2fb301")]
 [assembly: System.Reflection.AssemblyProductAttribute("24. Swap Nodes in Pairs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("24. Swap Nodes in Pairs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

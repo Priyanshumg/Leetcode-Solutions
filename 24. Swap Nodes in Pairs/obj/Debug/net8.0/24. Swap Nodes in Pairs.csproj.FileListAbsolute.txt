@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/bin/Debug/net8.0/24. Swap Nodes in Pairs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/bin/Debug/net8.0/24. Swap Nodes in Pairs.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/bin/Debug/net8.0/24. Swap Nodes in Pairs.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/bin/Debug/net8.0/24. Swap Nodes in Pairs.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/bin/Debug/net8.0/24. Swap Nodes in Pairs.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/obj/Debug/net8.0/24. Swap Nodes in Pairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/obj/Debug/net8.0/24. Swap Nodes in Pairs.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/obj/Debug/net8.0/24. Swap Nodes in Pairs.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/obj/Debug/net8.0/24. Swap Nodes in Pairs.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/obj/Debug/net8.0/24. Swap Nodes in Pairs.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/obj/Debug/net8.0/24. Swap Nodes in Pairs.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/obj/Debug/net8.0/refint/24. Swap Nodes in Pairs.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/obj/Debug/net8.0/24. Swap Nodes in Pairs.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/obj/Debug/net8.0/24. Swap Nodes in Pairs.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/24. Swap Nodes in Pairs/obj/Debug/net8.0/ref/24. Swap Nodes in Pairs.dll

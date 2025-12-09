@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/bin/Debug/net8.0/25. Reverse Nodes in k-Group
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/bin/Debug/net8.0/25. Reverse Nodes in k-Group.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/bin/Debug/net8.0/25. Reverse Nodes in k-Group.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/bin/Debug/net8.0/25. Reverse Nodes in k-Group.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/bin/Debug/net8.0/25. Reverse Nodes in k-Group.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/obj/Debug/net8.0/25. Reverse Nodes in k-Group.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/obj/Debug/net8.0/25. Reverse Nodes in k-Group.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/obj/Debug/net8.0/25. Reverse Nodes in k-Group.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/obj/Debug/net8.0/25. Reverse Nodes in k-Group.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/obj/Debug/net8.0/25. Reverse Nodes in k-Group.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/obj/Debug/net8.0/25. Reverse Nodes in k-Group.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/obj/Debug/net8.0/refint/25. Reverse Nodes in k-Group.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/obj/Debug/net8.0/25. Reverse Nodes in k-Group.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/obj/Debug/net8.0/25. Reverse Nodes in k-Group.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/25. Reverse Nodes in k-Group/obj/Debug/net8.0/ref/25. Reverse Nodes in k-Group.dll

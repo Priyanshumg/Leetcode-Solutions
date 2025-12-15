@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/bin/Debug/net8.0/28. Find the Index of the First Occurrence in a String
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/bin/Debug/net8.0/28. Find the Index of the First Occurrence in a String.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/bin/Debug/net8.0/28. Find the Index of the First Occurrence in a String.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/bin/Debug/net8.0/28. Find the Index of the First Occurrence in a String.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/bin/Debug/net8.0/28. Find the Index of the First Occurrence in a String.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/obj/Debug/net8.0/28. Find the Index of the First Occurrence in a String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/obj/Debug/net8.0/28. Find the Index of the First Occurrence in a String.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/obj/Debug/net8.0/28. Find the Index of the First Occurrence in a String.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/obj/Debug/net8.0/28. Find the Index of the First Occurrence in a String.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/obj/Debug/net8.0/28. Find the Index of the First Occurrence in a String.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/obj/Debug/net8.0/28. Find the Index of the First Occurrence in a String.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/obj/Debug/net8.0/refint/28. Find the Index of the First Occurrence in a String.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/obj/Debug/net8.0/28. Find the Index of the First Occurrence in a String.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/obj/Debug/net8.0/28. Find the Index of the First Occurrence in a String.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/28. Find the Index of the First Occurrence in a String/obj/Debug/net8.0/ref/28. Find the Index of the First Occurrence in a String.dll

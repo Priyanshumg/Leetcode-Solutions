@@ -30,7 +30,7 @@ class Program
         
         return isNegative ? -result : result;
     }
-    static void Main(string[] args)
+    static void Main()
     {
         Console.WriteLine(Divide(10, 3));
         Console.WriteLine(Divide(7, -3));

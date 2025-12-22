@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/bin/Debug/net8.0/35. Search Insert Position
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/bin/Debug/net8.0/35. Search Insert Position.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/bin/Debug/net8.0/35. Search Insert Position.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/bin/Debug/net8.0/35. Search Insert Position.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/bin/Debug/net8.0/35. Search Insert Position.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/obj/Debug/net8.0/35. Search Insert Position.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/obj/Debug/net8.0/35. Search Insert Position.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/obj/Debug/net8.0/35. Search Insert Position.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/obj/Debug/net8.0/35. Search Insert Position.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/obj/Debug/net8.0/35. Search Insert Position.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/obj/Debug/net8.0/35. Search Insert Position.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/obj/Debug/net8.0/refint/35. Search Insert Position.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/obj/Debug/net8.0/35. Search Insert Position.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/obj/Debug/net8.0/35. Search Insert Position.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/35. Search Insert Position/obj/Debug/net8.0/ref/35. Search Insert Position.dll

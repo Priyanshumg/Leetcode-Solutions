@@ -1,0 +1,15 @@
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/bin/Debug/net8.0/31. Next Permutation
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/bin/Debug/net8.0/31. Next Permutation.deps.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/bin/Debug/net8.0/31. Next Permutation.runtimeconfig.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/bin/Debug/net8.0/31. Next Permutation.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/bin/Debug/net8.0/31. Next Permutation.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/obj/Debug/net8.0/31. Next Permutation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/obj/Debug/net8.0/31. Next Permutation.AssemblyInfoInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/obj/Debug/net8.0/31. Next Permutation.AssemblyInfo.cs
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/obj/Debug/net8.0/31. Next Permutation.csproj.CoreCompileInputs.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/obj/Debug/net8.0/31. Next Permutation.sourcelink.json
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/obj/Debug/net8.0/31. Next Permutation.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/obj/Debug/net8.0/refint/31. Next Permutation.dll
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/obj/Debug/net8.0/31. Next Permutation.pdb
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/obj/Debug/net8.0/31. Next Permutation.genruntimeconfig.cache
+/Users/Priyanshu/Desktop/Codes/Leet Code/Leetcode-Solutions/31. Next Permutation/obj/Debug/net8.0/ref/31. Next Permutation.dll

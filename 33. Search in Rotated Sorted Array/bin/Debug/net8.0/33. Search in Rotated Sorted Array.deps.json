@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "33. Search in Rotated Sorted Array/1.0.0": {
+        "runtime": {
+          "33. Search in Rotated Sorted Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "33. Search in Rotated Sorted Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

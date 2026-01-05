@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56. Merge Intervals", "56. Merge Intervals.csproj", "{7970F536-29EF-457F-B06F-5BCA2C54BCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7970F536-29EF-457F-B06F-5BCA2C54BCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7970F536-29EF-457F-B06F-5BCA2C54BCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7970F536-29EF-457F-B06F-5BCA2C54BCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7970F536-29EF-457F-B06F-5BCA2C54BCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

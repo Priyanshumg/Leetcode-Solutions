@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75. Sort Colors", "75. Sort Colors.csproj", "{D999058C-2067-4130-8006-98BD62650C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D999058C-2067-4130-8006-98BD62650C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D999058C-2067-4130-8006-98BD62650C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D999058C-2067-4130-8006-98BD62650C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D999058C-2067-4130-8006-98BD62650C33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
